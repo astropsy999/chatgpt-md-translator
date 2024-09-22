@@ -4,3 +4,5 @@ lib
 prompt*.md
 !prompt-example.md
 *.tgz
+examples
+prompts
