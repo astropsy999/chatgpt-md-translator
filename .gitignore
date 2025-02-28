@@ -1,5 +1,6 @@
 node_modules
 lib
+examples
 .env
 prompt*.md
 !prompt-example.md

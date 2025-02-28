@@ -31,6 +31,8 @@
     "dotenv": "^16.0.3",
     "https-proxy-agent": "^6.2.0",
     "node-fetch": "^3.3.2",
+    "pdf-lib": "^1.17.1",
+    "pdf-parse": "^1.1.1",
     "picocolors": "^1.0.0",
     "string-width": "^7.1.0"
   },
@@ -38,6 +40,7 @@
     "@biomejs/biome": "1.6.4",
     "@types/dashdash": "^1.14.1",
     "@types/node": "^20.5.7",
+    "@types/pdf-parse": "^1.1.4",
     "tsx": "^4.7.1",
     "typescript": "^5.2.2"
   },
